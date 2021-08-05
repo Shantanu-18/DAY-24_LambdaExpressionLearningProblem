@@ -19,10 +19,5 @@ namespace LambdaExpressionDemo
             Address = addr;
             Age = age;
         }
-
-
     }
-
-
-
 }
