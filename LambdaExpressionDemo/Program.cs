@@ -36,7 +36,6 @@ namespace LambdaExpressionDemo
 
         }
 
-
         // UC2
         private static void Retrieving_TopTwoRecord_ForAgels_LessThanSixty(List<Person> listPersonsInCity)
         {
@@ -46,7 +45,6 @@ namespace LambdaExpressionDemo
             }
 
         }
-
 
         //UC3
         private static void CheckingForTeenagerPerson(List<Person> listPersonsInCity)
@@ -59,7 +57,6 @@ namespace LambdaExpressionDemo
                 Console.WriteLine("No, we don't have teen-agers in the list");
 
         }
-
 
         //UC4
         private static void AllPersonsAverageAge(List<Person> listPersonInCity)
